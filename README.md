@@ -2,8 +2,6 @@
 
 <img src="https://media.giphy.com/media/x0mTiIFpB8YCHntSHO/giphy-downsized.gif" width=100%>
 
-
-
 ## Brief
 
 
@@ -38,7 +36,7 @@ SELECT value FROM solution;
 
 <br>
 
-## DB-Design
-<br>
+## DB-Designer
 
-<br>
+![](dbdesigner-tables.png)
+
