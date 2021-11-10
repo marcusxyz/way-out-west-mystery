@@ -7,9 +7,12 @@
 ## Brief
 
 
-August, warm summer nights and finally Way Out West!
+The beloved festival takes place in the heart of Gothenburg each year, but this year, ` 2021 `, something terrible happens! 
 
-The beloved festival takes place in the heart of Gothenburg each year, but this year, something terrible happens. On Friday morning the Way out West crew realises a nightmare for the evenings headliner. Doja Cats speakers has been stolen! Her big pink speakers that is on stage with her for every performance. Doja is now devastated and refuses to preform if we don’t find the speakers immediately. They we’re right there in the VIP with her the evening before before she left at 10 pm. There are a lot ot visitors on the area. Maybe we can figure this out with the help of SQL and the data of who’s been lurking in the VIP.
+On Friday morning the Way out West crew realises a nightmare for the evenings headliner. Doja Cats speakers has been stolen! Her big pink speakers that is on stage with her for every performance. Doja is now devastated and refuses to preform if we don’t find the speakers immediately. They were right there <b> in the VIP </b> with her the evening before she left at 10 pm.
+
+There are a lot of visitors in the area. Maybe we can figure this out with the help of SQL and find out who’s been lurking in the VIP. 
+We must start by `finding the police report to locate any witnesses.`
 <br>
 <br>
 
