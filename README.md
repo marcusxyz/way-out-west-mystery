@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/x0mTiIFpB8YCHntSHO/giphy-downsized.gif width=100%>
+<img src="https://media.giphy.com/media/x0mTiIFpB8YCHntSHO/giphy-downsized.gif" width=100%>
           
 # way-out-west-mystery
 
